@@ -7,6 +7,8 @@ public class FirstClass {
 		System.out.println("Ilk commit from local repository");
 		System.out.println("Ilk commit from local repository111");
 		System.out.println("Ilk commit from local repository222");
+		System.out.println("feature branch");
+		
 	}
 
 }
